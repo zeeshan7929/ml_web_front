@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+body{
+  background:url('/public/images/background/back.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
